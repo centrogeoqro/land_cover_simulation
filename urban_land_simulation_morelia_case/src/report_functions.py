@@ -4,6 +4,7 @@ import geopandas as gpd
 crs_m = 'epsg:4326'
 import itertools as it
 import numpy as np
+import seaborn as sns
 
 def simulate(xtrain, ytrain, xvalid, yvalid, Models):
     dict ={}
