@@ -1,3 +1,10 @@
+#Implementation for computing the
+#TOC= Total Operating Charcateristic Curve
+#Author: Rodrigo Lopez-Farias
+#Centro de Investigación en Ciencias de Información Geoespacial AC
+#Querétaro, México.
+
+
 import matplotlib.pyplot as plt
 from shapely.geometry import Point, Polygon
 import geopandas as gpd
